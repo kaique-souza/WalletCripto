@@ -24,6 +24,7 @@ class WalletCriptoTests: XCTestCase {
 
     func testPerformanceExample() throws {
         measure {
+            
         }
     }
 
